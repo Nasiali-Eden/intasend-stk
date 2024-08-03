@@ -39,14 +39,6 @@ body {
     width: 109px;
   }
 
-  .add {
-    height: 38px;
-    border-radius: 4px;
-    margin-left: 40px;
-    padding-right: 22px;
-    padding-left: 20px;
-  }
-
   .form-control:focus {
     color: #495057;
     background-color: #fff;
