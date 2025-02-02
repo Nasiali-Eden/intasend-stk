@@ -1,1 +1,3 @@
-Intasend STK for a simple product buyiong page using JS
+# Intasend STK for a simple product buying page using JS.
+# Price and amount functionality using JS functions.
+# Bootstrap for Ui
